@@ -1,9 +1,29 @@
 fileFormatVersion: 2
-guid: 4b71f6d5a0b9a90448e23064298a2a36
+guid: fb291f9be60766c42a199d00c979b5b5
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared.001
+    second: {fileID: 2100000, guid: a9b7ec821dd2b1f48bb0e2f0eeb94bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapas
+    second: {fileID: 2100000, guid: a9b7ec821dd2b1f48bb0e2f0eeb94bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tejado
+    second: {fileID: 2100000, guid: 9ee23bac112454347b7f965863f7d1e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estructura_madera
+    second: {fileID: 2100000, guid: a9b7ec821dd2b1f48bb0e2f0eeb94bbc, type: 2}
   materials:
     materialImportMode: 0
     materialName: 0
