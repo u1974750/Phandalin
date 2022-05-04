@@ -5937,6 +5937,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1722773125}
     m_Modifications:
+    - target: {fileID: 663247153226328385, guid: f7ad84b6179eb0d48a92969579a7b76d, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 879014ad37201d94d9c6fbed81c2f236, type: 2}
     - target: {fileID: 1311866586096175252, guid: f7ad84b6179eb0d48a92969579a7b76d, type: 3}
       propertyPath: m_Name
       value: paredEsqina (3)
@@ -10552,6 +10556,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1722773125}
     m_Modifications:
+    - target: {fileID: 663247153226328385, guid: f7ad84b6179eb0d48a92969579a7b76d, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 879014ad37201d94d9c6fbed81c2f236, type: 2}
     - target: {fileID: 1311866586096175252, guid: f7ad84b6179eb0d48a92969579a7b76d, type: 3}
       propertyPath: m_Name
       value: paredEsqina (4)
