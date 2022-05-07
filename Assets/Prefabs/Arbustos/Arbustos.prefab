@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2185995445941016115}
   - component: {fileID: 4157596578183340793}
   m_Layer: 0
-  m_Name: mod_arbusto
+  m_Name: Arbustos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 50151b11425c2294b94e427532cc8a30, type: 2}
+  - {fileID: 2100000, guid: bc47ff317d983c54bb83b037460c2a25, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
