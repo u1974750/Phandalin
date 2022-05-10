@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2174331834995575301}
   - component: {fileID: 2991266317022201248}
   - component: {fileID: 1038057260097728874}
+  - component: {fileID: 3495915171529647097}
   m_Layer: 0
   m_Name: tejadoPorcho
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3495915171529647097
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1542227666257334463}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0166646, y: 2.696213, z: 0.11790719}
+  m_Center: {x: 0.012326289, y: -0.19127533, z: -0.07681234}

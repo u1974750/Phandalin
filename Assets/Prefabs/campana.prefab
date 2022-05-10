@@ -120,6 +120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4244395342657339849}
+  - component: {fileID: 4414153506019791874}
   m_Layer: 0
   m_Name: campana
   m_TagString: Untagged
@@ -148,6 +149,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4414153506019791874
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3579464223498541939}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 2.6140256, z: 1.5113316}
+  m_Center: {x: 0, y: 1.4285986, z: -0.034356117}
 --- !u!1 &3725803343394680313
 GameObject:
   m_ObjectHideFlags: 0

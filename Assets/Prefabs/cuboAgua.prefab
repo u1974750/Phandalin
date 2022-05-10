@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2527951337477415225}
+  - component: {fileID: 1401004323440377876}
   m_Layer: 0
   m_Name: cuboAgua
   m_TagString: Untagged
@@ -31,6 +32,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1401004323440377876
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2908981167537585027}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.025833346, y: 0.020915097, z: 0.023597725}
+  m_Center: {x: -0.006473824, y: 0.0011902064, z: 0.011300722}
 --- !u!1 &5754540612175672568
 GameObject:
   m_ObjectHideFlags: 0

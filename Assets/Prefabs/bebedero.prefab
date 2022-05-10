@@ -171,6 +171,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1479795580382208833}
+  - component: {fileID: 3449018993274497939}
   m_Layer: 0
   m_Name: bebedero
   m_TagString: Untagged
@@ -199,6 +200,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!65 &3449018993274497939
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2288561512218868219}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 7.9242735, y: 1.4662517, z: 2.637891}
+  m_Center: {x: 0.050320625, y: 0.81876296, z: 0.00000017881393}
 --- !u!1 &3060026158765979771
 GameObject:
   m_ObjectHideFlags: 0

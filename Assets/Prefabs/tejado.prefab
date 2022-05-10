@@ -105,6 +105,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4865710626152707982}
+  - component: {fileID: 2581317998531614380}
   m_Layer: 0
   m_Name: tejado
   m_TagString: Untagged
@@ -129,6 +130,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2581317998531614380
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1975352292772958665}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.452717, y: 2.2241452, z: 3.9576359}
+  m_Center: {x: -0.3138833, y: -0.047082543, z: 0.44044542}
 --- !u!1001 &291441015287340161
 PrefabInstance:
   m_ObjectHideFlags: 0

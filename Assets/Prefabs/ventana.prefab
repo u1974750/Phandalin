@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7702502032798899174}
   - component: {fileID: 6722488168810861635}
   - component: {fileID: 8840535379488284809}
+  - component: {fileID: 6822801305790959597}
   m_Layer: 0
   m_Name: ventana
   m_TagString: Untagged
@@ -82,3 +83,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6822801305790959597
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7038871571385254236}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1769543, y: 1.2864588, z: 0.14662121}
+  m_Center: {x: -0.04438266, y: 0.6385966, z: 0.06920201}

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 776059837800572280}
   - component: {fileID: 4425567127336119005}
   - component: {fileID: 1913522499167133207}
+  - component: {fileID: 6074181744620642223}
   m_Layer: 0
   m_Name: candil
   m_TagString: Untagged
@@ -82,3 +83,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6074181744620642223
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112254515456819138}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0331793, y: 4.064814, z: 2.3541856}
+  m_Center: {x: 0.016589582, y: 2.032407, z: 0}

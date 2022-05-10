@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4210014938708738500}
   - component: {fileID: 991673531980680801}
   - component: {fileID: 3037632436315716267}
+  - component: {fileID: 1126764477649734712}
   m_Layer: 0
   m_Name: terraza
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1126764477649734712
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3541846822406511486}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.5800412, y: 0.8110547, z: 0.9340227}
+  m_Center: {x: -0.009198909, y: -0.36965856, z: 0.34612697}

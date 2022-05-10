@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1837326919319147054}
   - component: {fileID: 3373377044188028299}
   - component: {fileID: 663247153226328385}
+  - component: {fileID: -4988290304784907882}
   m_Layer: 0
   m_Name: paredEsqina
   m_TagString: Untagged
@@ -82,3 +83,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-4988290304784907882
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311866586096175252}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.350099, y: 2.3753119, z: 0.0660214}
+  m_Center: {x: -0.016324162, y: 1.1876559, z: -0.007053095}

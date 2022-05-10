@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3084521077439806094}
   - component: {fileID: 2117166842157872427}
   - component: {fileID: 4216855032863048161}
+  - component: {fileID: 2265975384952763067}
   m_Layer: 0
   m_Name: sacoPatatas
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &2265975384952763067
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2415542655647834164}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.029494263, y: 0.02604544, z: 0.033103064}
+  m_Center: {x: 0.00063223945, y: 0.000015424159, z: 0.016427541}
