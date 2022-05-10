@@ -335,6 +335,7 @@ GameObject:
   - component: {fileID: 1504971560256007422}
   - component: {fileID: 5736175003092018709}
   - component: {fileID: 5985466204722157825}
+  - component: {fileID: 614818298699035490}
   m_Layer: 0
   m_Name: Carrito
   m_TagString: Untagged
@@ -405,6 +406,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &614818298699035490
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3817152081982543167}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9, y: 2.08, z: 1.94}
+  m_Center: {x: 0.009673595, y: 0.02, z: 0}
 --- !u!1 &3979413717018093271
 GameObject:
   m_ObjectHideFlags: 0
@@ -616,6 +630,7 @@ GameObject:
   - component: {fileID: 6271526134679805162}
   - component: {fileID: 3745949331618834140}
   - component: {fileID: 5447645056416984361}
+  - component: {fileID: 6853332500919658728}
   m_Layer: 0
   m_Name: Tejado.002
   m_TagString: Untagged
@@ -686,3 +701,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6853332500919658728
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5604499103062779363}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.43, y: 1.35, z: 1.436426}
+  m_Center: {x: -1.71, y: 0.09, z: -0.69}
